@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Ashutosh Dhondi
 
-🔧 A passionate **Full Stack Developer** with 3+ years of experience building scalable web applications and automating infrastructure.  
+🔧 A passionate **Full Stack Developer** with building scalable web applications and automating infrastructure.  
 💻 Currently sharpening my web development skills in the **WebCohort by Hitesh Choudhary & Piyush Garg** — and loving every bit of the hands-on learning!
 
 ---
