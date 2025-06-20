@@ -1,7 +1,14 @@
-# 👋 Hey there, I’m Ashutosh Dhondi
+# 👋 Hi there, I’m Ashutosh
 
-🔧 A passionate **Full Stack Developer** with building scalable web applications and automating infrastructure.  
-💻 Currently sharpening my web development skills in the **WebCohort by Hitesh Choudhary & Piyush Garg** — and loving every bit of the hands-on learning!
+🔧 A passionate **Full Stack Developer** with a strong foundation in software engineering and a drive to build scalable, high-performance web applications.
+
+---
+
+### 👨‍💻 About Me
+
+I work across the stack using technologies like **Java**, **Spring Boot**, **JavaScript**, **React**, **Node.js**, , and **SQL/NoSQL databases** to develop robust and user-centric applications. I’ve deployed and automated systems on **AWS**, **GCP**, and containerized environments using **Docker** and **Kubernetes**.
+
+In addition to my technical expertise, I’ve actively taken ownership of end-to-end delivery, mentored junior developers, led sprint planning, facilitated code reviews, and helped improve engineering processes through collaboration and continuous feedback. I believe in leading by example and fostering a positive, growth-oriented team culture.
 
 ---
 
@@ -18,12 +25,6 @@ I'm always up to contribute to real-world full stack projects, especially those 
 - Backend APIs (Node.js, Express, Spring Boot)
 - Cloud deployment and automation
 - Beginner-friendly open-source projects
-
----
-
-📫 Let's Connect:  
-[![LinkedIn](https://img.shields.io/badge/-Ashutosh%20Dhondi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-dhondi-ab5b21143/)](https://www.linkedin.com/in/ashutosh-dhondi-ab5b21143/)  
-✉️ Drop a message if you’d like to collaborate or chat about tech, coding, or good food 😄
 
 ---
 
