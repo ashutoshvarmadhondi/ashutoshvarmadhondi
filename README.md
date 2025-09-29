@@ -8,7 +8,7 @@
 
 I work across the stack using technologies like **Java**, **Spring Boot**, **JavaScript**, **React**, **Node.js**, , and **SQL/NoSQL databases** to develop robust and user-centric applications. I’ve deployed and automated systems on **AWS**, **GCP**, and containerized environments using **Docker** and **Kubernetes**.
 
-In addition to my technical expertise, I’ve actively taken ownership of end-to-end delivery, mentored junior developers, led sprint planning, facilitated code reviews, and helped improve engineering processes through collaboration and continuous feedback. I believe in leading by example and fostering a positive, growth-oriented team culture.
+In addition to my technical expertise, I am Certified AWS Associate Developer and have been actively taken ownership of end-to-end delivery, mentored junior developers, led sprint planning, facilitated code reviews, and helped improve engineering processes through collaboration and continuous feedback. I believe in leading by example and fostering a positive, growth-oriented team culture.
 
 ---
 
