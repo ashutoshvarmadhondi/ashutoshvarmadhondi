@@ -1,33 +1,39 @@
-# 👋 Hi there, I’m Ashutosh
+**👋 Hi there, I’m Ashutosh**
 
-🔧 A passionate **Full Stack Developer** with a strong foundation in software engineering and a drive to build scalable, high-performance web applications.
+🔧 A passionate Site Reliability Engineer (SRE) with expertise in designing, deploying, and maintaining highly available, scalable, and resilient systems across cloud, containerized, and distributed environments.
 
----
+**👨‍💻 About Me**
 
-### 👨‍💻 About Me
+I specialize in cloud infrastructure, automation, and observability, ensuring systems run efficiently and reliably. I have hands-on experience with AWS (EC2, RDS, S3, EKS, IAM, CloudFormation, CloudWatch, X-Ray, Secrets Manager), GCP, Azure, and infrastructure automation tools like Terraform and Ansible. I design resilient, high-availability architectures using Kubernetes, Docker, Helm, and implement auto-healing, load balancing, and secrets management to maintain system stability.
 
-I work across the stack using technologies like **Java**, **Spring Boot**, **JavaScript**, **React**, **Node.js**, , and **SQL/NoSQL databases** to develop robust and user-centric applications. I’ve deployed and automated systems on **AWS**, **GCP**, and containerized environments using **Docker** and **Kubernetes**.
+I also focus on CI/CD pipelines and automation using Jenkins, GitHub Actions, GitLab CI/CD, Python, and Bash, ensuring smooth, repeatable deployments. My monitoring and observability expertise includes Prometheus, Grafana, Datadog, New Relic, Splunk, ELK, and AWS CloudWatch/X-Ray, paired with SLOs/SLIs/SLAs, error budgets, incident management (PagerDuty, ServiceNow), postmortems, and root cause analysis to drive continuous reliability improvements.
 
-In addition to my technical expertise, I am Certified AWS Associate Developer and have been actively taken ownership of end-to-end delivery, mentored junior developers, led sprint planning, facilitated code reviews, and helped improve engineering processes through collaboration and continuous feedback. I believe in leading by example and fostering a positive, growth-oriented team culture.
+**🚀 What I Do**
 
----
+Build, maintain, and scale cloud-native systems with high availability, auto-scaling, and performance tuning.
 
-### 🚀 What I Do
-- Craft responsive and dynamic **Full Stack apps** using **JavaScript**, **Node.js**, **React**, **Spring Boot**, and **SQL/NoSQL databases**.
-- Explore cloud platforms like **AWS** and **GCP**, and love using **Docker**/**Kubernetes** for efficient deployments.
-- Collaborate on DevOps, SRE, and performance-tuning tasks from my past Site Reliability Engineering role.
+Design and implement microservices architectures, distributed systems, and messaging pipelines using Kafka, RabbitMQ, Pub/Sub, with caching strategies for optimal performance.
 
----
+Automate deployments and infrastructure using CI/CD pipelines, Terraform, Ansible, and scripting (Python, Bash).
 
-### 🤝 Open to Collaborate
-I'm always up to contribute to real-world full stack projects, especially those involving:
-- Frontend frameworks (React, Angular)
-- Backend APIs (Node.js, Express, Spring Boot)
-- Cloud deployment and automation
-- Beginner-friendly open-source projects
+Monitor and troubleshoot production systems with Prometheus, Grafana, Datadog, New Relic, ELK Stack, ensuring proactive incident management and reliability improvements.
 
----
+Ensure secure, compliant, and auditable systems with robust configuration management, logging, and secret handling.
 
-😄 **Pronouns:** He/Him  
-⚡ **Fun Fact:** I love building things from scratch, exploring new JavaScript tricks, and sometimes even entertaining a crowd with a guitar or a good laugh!
+Optimize database and storage performance across PostgreSQL, MySQL, Oracle, MongoDB, Cassandra, Redis.
 
+**🤝 Open to Collaborate**
+
+I’m eager to contribute to projects involving:
+
+Cloud infrastructure and container orchestration (AWS, GCP, Azure, Kubernetes, Docker, OpenShift)
+
+Automation, CI/CD, and deployment pipelines
+
+Observability, monitoring, SLOs, incident response, and postmortem analysis
+
+System reliability, performance optimization, and scalable architecture
+
+**😄 Pronouns: He/Him**
+
+⚡ Fun Fact: I enjoy automating repetitive tasks, exploring new cloud technologies, and occasionally jamming on the guitar after a day of debugging production issues.
