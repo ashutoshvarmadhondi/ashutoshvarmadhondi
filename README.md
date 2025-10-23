@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 About Me</h2>
 
-I specialize in cloud infrastructure, automation, and observability, ensuring systems run efficiently and reliably. I have hands-on experience with AWS (EC2, RDS, S3, EKS, IAM, CloudFormation, CloudWatch, X-Ray, Secrets Manager), GCP, Azure, and infrastructure automation tools like Terraform and Ansible. I design resilient, high-availability architectures using Kubernetes, Docker, Helm, and implement auto-healing, load balancing, and secrets management to maintain system stability.
+I specialize in cloud infrastructure, automation, and observability, ensuring systems run efficiently and reliably. I recently got certified as AWS Developer Associate and have hands-on experience with AWS (EC2, RDS, S3, EKS, IAM, CloudFormation, CloudWatch, X-Ray, Secrets Manager), GCP, Azure, and infrastructure automation tools like Terraform and Ansible. I design resilient, high-availability architectures using Kubernetes, Docker, Helm, and implement auto-healing, load balancing, and secrets management to maintain system stability.
 
 I also focus on CI/CD pipelines and automation using Jenkins, GitHub Actions, GitLab CI/CD, Python, and Bash, ensuring smooth, repeatable deployments. My monitoring and observability expertise includes Prometheus, Grafana, Datadog, New Relic, Splunk, ELK, and AWS CloudWatch/X-Ray, paired with SLOs/SLIs/SLAs, error budgets, incident management (PagerDuty, ServiceNow), postmortems, and root cause analysis to drive continuous reliability improvements.
 
